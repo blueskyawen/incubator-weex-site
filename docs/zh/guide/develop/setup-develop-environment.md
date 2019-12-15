@@ -53,4 +53,4 @@ $ weex create awesome-project
 ![预览效果图](https://img.alicdn.com/tfs/TB1rAcoI9zqK1RjSZPxXXc4tVXa-2384-1488.png)
 
 
-关于 Weex 语法部分，你可以直接参考 [Vue Guide](https://vuejs.org/v2/guide/)，这里不再重复介绍。如果您想了解有关技术详情的更多信息，请继续阅读下一节。
+关于 Vue 语法部分，你可以直接参考 [Vue Guide](https://vuejs.org/v2/guide/)，这里不再重复介绍。如果您想了解有关技术详情的更多信息，请继续阅读下一节。
